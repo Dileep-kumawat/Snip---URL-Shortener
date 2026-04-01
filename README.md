@@ -2,6 +2,10 @@
 
 A production-quality URL shortener built with MongoDB, Express, React, and Node.js.
 
+## 🌐 Live Demo
+
+ **Live App:** https://snip-dileep.netlify.app/
+
 ## Features
 
 - ⚡ Instant URL shortening with collision-resistant 7-char codes
@@ -138,3 +142,23 @@ Open `http://localhost:5173` in your browser.
 - **Backend**: Deploy to Railway, Render, or Fly.io; set all env vars
 - **Frontend**: Deploy to Vercel or Netlify; set `VITE_API_URL` to backend URL
 - **BASE_URL**: Must be the public URL of your backend so short links work
+
+---
+
+## 👨‍💻 Developer
+
+**Dileep Kumawat**
+
+- 💻 Full Stack Developer (MERN)
+- ⚡ Focused on building real-world scalable apps
+- 🧠 Strong in system design + clean architecture
+
+---
+
+## 📬 Contact
+
+- 📧 Email: dileepkumawat525@gmail.com 
+- 💼 LinkedIn: https://linkedin.com/in/dileep-kumawat 
+- 🐙 GitHub: https://github.com/Dileep-kumawat 
+- 🔗 Twitter(X) : https://x.com/dilsecode
+- 😎 Instagram : https://www.instagram.com/dileep.52/
